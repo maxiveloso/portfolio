@@ -1,0 +1,80 @@
+# Project Title — 1-line value statement
+
+## TL;DR
+In [context], I [what you did] to [goal], resulting in [quantified impact]. Used [methods/tools]. See the live demo and code below.
+
+## Problem & Context
+- Business problem and why it matters
+- Success criteria / target KPI
+
+## My Role & Scope
+- Role: [e.g., Data Analyst]
+- Timeline: [e.g., 6 weeks]
+- Stakeholders: [e.g., Marketing, Ops]
+- Responsibilities: [what you owned]
+
+## Data Overview
+- Sources: [internal, public, APIs]
+- Size & time span: [rows, period]
+- Key fields & definitions
+- Data quality notes / biases
+
+## Questions & Hypotheses
+- Q1:
+- Q2:
+- Hypothesis:
+
+## Approach & Methods
+- Pipeline summary: ingest → clean → feature → analyze/model → validate → deliver
+- Methods: [e.g., EDA, forecasting (Prophet/XGBoost), uplift modeling, SQL window functions]
+- Why these methods vs. alternatives
+
+## Key Insights
+1) [Insight in plain language] — evidence: [chart/table link]
+2) [Insight]
+3) [Insight]
+
+## Impact & Outcomes
+- Decisions enabled:
+- KPI movement: [baseline → result, % change, confidence]
+- ROI / time saved / cost reduced:
+
+## Evaluation & Metrics
+- Metrics: [MAE, AUC, lift]
+- Validation: [AB test setup, CV, holdout]
+- Error analysis / confidence intervals
+
+## Constraints & Trade-offs
+- [e.g., sparse data, latency limits, interpretability needs]
+- How mitigated and remaining risks
+
+## Ethics & Privacy
+- Data handling, PII protection
+- Bias checks and mitigation
+
+## Lessons Learned
+- [What surprised you, reusable patterns]
+
+## Next Steps
+- [Roadmap items / experiments]
+
+## Tech Stack
+- Languages & libraries: [Python, SQL, dbt, scikit-learn, etc.]
+- Infra: [BigQuery, Snowflake, Airflow]
+- Architecture: [small diagram or link]
+
+## Reproducibility
+- Repo: [link]
+- Notebook(s): [link]
+- Environment: [requirements.txt / conda env]
+- Data access: [how to get data or synthetic sample]
+- Run instructions: [steps]
+
+## Demo & Links
+- Live dashboard/app: [link]
+- 2–3 min demo video: [link]
+- Selected visuals: [images with captions]
+
+## Contact / CTA
+- Email / form: [link]
+- “Work with me” / “Download resume” / “See related projects”

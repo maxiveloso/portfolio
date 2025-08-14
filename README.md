@@ -1,7 +1,7 @@
 # Maximiliano Veloso: Portfolio
 Data science, data analytics and business intelligence portfolio.
 
-### [WWI Retail Analytics Foundation — End-to-end SQL analysis to build reusable insights]([https://github.com/maxiveloso/portfolio/tree/main/data-analytics/SQL/WIWO-store]) 
+### [WWI Retail Analytics Foundation — End-to-end SQL analysis to build reusable insights](https://github.com/maxiveloso/portfolio/tree/main/data-analytics/SQL/WIWO-store) 
 
 #### TL;DR
 In the context of the Wide World Importers (WWI) retail warehouse, I authored a comprehensive SQL analysis suite to establish an analytics foundation spanning data quality checks, exploratory profiling, time intelligence, contribution analysis, RFM segmentation, clustering, and basket analysis. The goal was to enable future dashboards and decision support for product, customer, seller, territory, and time-based insights. The work covers 2013–2016 with 228,225 factSale rows. Built with SQL Server (T-SQL) in VS Code.
